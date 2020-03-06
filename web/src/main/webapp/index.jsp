@@ -11,9 +11,9 @@
     <title>Super Simple Example Webpage edited by Wally Walldorf dn uurste</title>
 </head>
 <body>
-  <h1>Super Simple Example Web Page</h1>
+  <h1>Eerste deployment via Jenkins is zojuist gelukt! </h1>
   <p>
-    This is a very simple example web page on a JSP.
+    Jenkins duwt t door naar localhost:9080/demo
   </p>
 </body>
 </html>
